@@ -1,6 +1,6 @@
 # JavaScript-Projects
 
-[Visit Now](https://jigar-sable.github.io/JavaScript-Projects/) 🚀
+[Visit Now](https://molu0.github.io/Jijava/) 🚀
 
 [![javascript-projects](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?color=blue)](https://jigar-sable.github.io/JavaScript-Projects/)&nbsp;
 [![repo-size](https://img.shields.io/github/repo-size/jigar-sable/JavaScript-Projects)](https://github.com/jigar-sable/JavaScript-Projects)
